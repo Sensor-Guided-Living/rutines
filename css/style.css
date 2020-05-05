@@ -1,6 +1,6 @@
 body {
-  font-family: "Inconsolata", monosapce;
-  color: #0d1e2d;
+  background: url("http://falconmasters.com/demos/particulas/bg.jpg") no-repeat #000;
+  background-size: cover;
 }
 
 a {
